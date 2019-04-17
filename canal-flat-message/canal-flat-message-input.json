@@ -1,34 +1,68 @@
 {
-    "data":[
-        {
-            "id":"1",
-            "name":"a",
-            "dt":"2019-04-09 16:57:39"
-        },
-        {
-            "id":"2",
-            "name":"b",
-            "dt":"2019-04-09 16:57:39"
-        }
-    ],
-    "database":"test",
-    "es":1554800259000,
-    "id":2,
-    "isDdl":false,
-    "mysqlType":{
-        "id":"int(11)",
-        "name":"varchar(20)",
-        "dt":"datetime"
-    },
-    "old":null,
-    "pkNames":null,
-    "sql":"",
-    "sqlType":{
-        "id":4,
-        "name":12,
-        "dt":93
-    },
-    "table":"t1",
-    "ts":1554800259306,
-    "type":"INSERT"
+  "data": [
+    {
+      "bool_type": 1,
+      "tinyint_type": 2,
+      "SMALLINT_type": 12345,
+      "MEDIUMINT_type": 1234567,
+      "int_type": 1234567890,
+      "integer_type": 1234567890,
+      "bigint_type": 1234567890123,
+      "float_type": 123.12346,
+      "double_type": 123.1234567890123,
+      "decimal_type": 123,
+      "decimal_type2": 0.1234567890123,
+      "varchar_type": "321",
+      "date_type": 18001,
+      "time_type": "12:12:12",
+      "datetime_type": 1555381078000,
+      "timestamp_type": 1555381078000
+    }
+  ],
+  "database": "test",
+  "es": 1555381078000,
+  "id": 1,
+  "isDdl": false,
+  "mysqlType": {
+    "bool_type": "tinyint(1)",
+    "tinyint_type": "tinyint(4)",
+    "SMALLINT_type": "smallint(6)",
+    "MEDIUMINT_type": "mediumint(9)",
+    "int_type": "int(11)",
+    "integer_type": "int(11)",
+    "bigint_type": "bigint(20)",
+    "float_type": "float",
+    "double_type": "double",
+    "decimal_type": "decimal(10,0)",
+    "decimal_type2": "decimal(20,20)",
+    "varchar_type": "varchar(20)",
+    "date_type": "date",
+    "time_type": "time",
+    "datetime_type": "datetime",
+    "timestamp_type": "timestamp"
+  },
+  "old": null,
+  "pkNames": null,
+  "sql": "",
+  "sqlType": {
+    "bool_type": -7,
+    "tinyint_type": -6,
+    "SMALLINT_type": 5,
+    "MEDIUMINT_type": 4,
+    "int_type": 4,
+    "integer_type": 4,
+    "bigint_type": -5,
+    "float_type": 7,
+    "double_type": 8,
+    "decimal_type": 3,
+    "decimal_type2": 3,
+    "varchar_type": 12,
+    "date_type": 91,
+    "time_type": 92,
+    "datetime_type": 93,
+    "timestamp_type": 93
+  },
+  "table": "t2",
+  "ts": 1555381114530,
+  "type": "INSERT"
 }
