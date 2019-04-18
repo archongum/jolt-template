@@ -35,10 +35,10 @@
             "#null": "schema.fields.[#3].type[]",
             "#long": "schema.fields.[#3].type[]"
           },
-          "float|double|decimal*": {
+          "float|float*|double|double*|decimal*": {
             "$1": "schema.fields.[#3].name",
             "#null": "schema.fields.[#3].type[]",
-            "#long": "schema.fields.[#3].type[]"
+            "#double": "schema.fields.[#3].type[]"
           },
           "*": {
             "$1": "schema.fields.[#3].name",
