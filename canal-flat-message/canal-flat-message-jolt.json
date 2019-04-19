@@ -3,7 +3,7 @@
     "operation": "default",
     "spec": {
       "new_column": {
-        "name": "__capture_time",
+        "name": "capture_time__",
         "type": ["null", "long"]
       }
     }
