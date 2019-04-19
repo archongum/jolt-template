@@ -54,7 +54,7 @@
       "type" : [ "null", "long" ]
     }, {
       "type" : [ "null", "long" ],
-      "name" : "__capture_time"
+      "name" : "capture_time__"
     } ]
   },
   "data" : [ {
@@ -74,6 +74,6 @@
     "time_type" : "12:12:12",
     "datetime_type" : 1555381078000,
     "timestamp_type" : 1555381078000,
-    "__capture_time" : 1555381078000
+    "capture_time__" : 1555381078000
   } ]
 }
