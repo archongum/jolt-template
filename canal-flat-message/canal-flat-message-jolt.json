@@ -15,7 +15,7 @@
         "*": {
           "@": "data.[&1]",
           "@2": {
-            "es": "data.[&1].@(1,new_column.name)"
+            "ts": "data.[&1].@(1,new_column.name)"
           }
         }
       },
