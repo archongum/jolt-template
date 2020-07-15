@@ -1,0 +1,28 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "data": {
+        "*": {
+          "vendorList": {
+            "*": {
+              "vendorNbr": "[&3].[&1].vendor_nbr",
+              "vendorName": "[&3].[&1].vendor_name",
+              "@(2,userId)": "[&3].[&1].user_id",
+              "@(2,userName)": "[&3].[&1].user_name",
+              "@(4,time)": "[&3].[&1].request_time"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "operation": "shift",
+    "spec": {
+      "*": {
+        "*": "[]"
+      }
+    }
+  }
+]

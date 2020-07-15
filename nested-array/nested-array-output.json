@@ -1,0 +1,44 @@
+[
+  {
+    "user_id": 379,
+    "user_name": "HENKEL01",
+    "request_time": "1594780998359",
+    "vendor_nbr": "1024494102",
+    "vendor_name": "v1-379"
+  },
+  {
+    "user_id": 379,
+    "user_name": "HENKEL01",
+    "request_time": "1594780998359",
+    "vendor_nbr": "1024494112",
+    "vendor_name": "v2-379"
+  },
+  {
+    "user_id": 381,
+    "user_name": "MENTHOLATUM01",
+    "request_time": "1594780998359",
+    "vendor_nbr": "1015507102",
+    "vendor_name": "v1-381"
+  },
+  {
+    "user_id": 381,
+    "user_name": "MENTHOLATUM01",
+    "request_time": "1594780998359",
+    "vendor_nbr": "1041044105",
+    "vendor_name": "v2-381"
+  },
+  {
+    "user_id": 381,
+    "user_name": "MENTHOLATUM01",
+    "request_time": "1594780998359",
+    "vendor_nbr": "1054077101",
+    "vendor_name": "v3-381"
+  },
+  {
+    "user_id": 607,
+    "user_name": "PCLADY",
+    "request_time": "1594780998359",
+    "vendor_nbr": "1000000001",
+    "vendor_name": "v1-607"
+  }
+]

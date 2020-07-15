@@ -1,0 +1,65 @@
+{
+  "code": "0000",
+  "count": 20,
+  "curIndex": 1,
+  "data": [
+    {
+      "userDesc": "Desc-379",
+      "userId": 379,
+      "userName": "HENKEL01",
+      "userType": "60",
+      "vendorList": [
+        {
+          "vendorName": "v1-379",
+          "vendorNbr": "1024494102"
+        },
+        {
+          "vendorName": "v2-379",
+          "vendorNbr": "1024494112"
+        }
+      ]
+    },
+    {
+      "userDesc": "Desc-381",
+      "userId": 381,
+      "userName": "MENTHOLATUM01",
+      "userType": "60",
+      "vendorList": [
+        {
+          "vendorName": "v1-381",
+          "vendorNbr": "1015507102"
+        },
+        {
+          "vendorName": "v2-381",
+          "vendorNbr": "1041044105"
+        },
+        {
+          "vendorName": "v3-381",
+          "vendorNbr": "1054077101"
+        }
+      ]
+    },
+    {
+      "userId": 607,
+      "userName": "PCLADY",
+      "userType": "66",
+      "vendorList": [
+        {
+          "vendorName": "v1-607",
+          "vendorNbr": "1000000001"
+        }
+      ]
+    }
+  ],
+  "encrypt": "N",
+  "firstIndex": 1,
+  "lastIndex": 2,
+  "msg": "操作成功",
+  "nextIndex": 2,
+  "pageSize": 10,
+  "pagesCount": 2,
+  "preIndex": 1,
+  "responseId": "c88182f6-bf54-4ab6-986d-5f6958938abc",
+  "status": "S",
+  "time": "1594780998359"
+}

@@ -4,7 +4,10 @@
     "spec": {
       "new_column": {
         "name": "capture_time__",
-        "type": ["null", "long"]
+        "type": [
+          "null",
+          "long"
+        ]
       }
     }
   },
@@ -49,5 +52,5 @@
       },
       "new_column": "schema.fields.[]"
     }
-    }
+  }
 ]
