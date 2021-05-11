@@ -1,0 +1,23 @@
+{
+  "adcode": {
+    "type": "keyword"
+  },
+  "address": {
+    "type": "text"
+  },
+  "ageConstruction": {
+    "type": "text"
+  },
+  "alias": {
+    "type": "text",
+    "fields": {
+      "keyword": {
+        "type": "keyword",
+        "ignore_above": 256
+      }
+    }
+  },
+  "area": {
+    "type": "keyword"
+  }
+}
